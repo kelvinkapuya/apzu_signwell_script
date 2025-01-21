@@ -1,0 +1,15 @@
+{
+    "ssh": {
+        "host": "10.100.11.42",
+        "port": 22,
+        "user": "fubanda",
+        "password": "ghc@2023"
+    },
+    "database": {
+        "host": "localhost",
+        "port": 5434,
+        "user": "postgres",
+        "password": "9%4qP7b2H!%J",
+        "name": "signwell"
+    }
+}
